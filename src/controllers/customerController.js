@@ -1,4 +1,4 @@
-﻿import { CustomerModel } from "../models/customerModel.js";
+import { CustomerModel } from "../models/customerModel.js";
 
 export const CustomerController = {
   async getAll(req, res) {

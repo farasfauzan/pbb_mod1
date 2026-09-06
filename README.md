@@ -1,4 +1,4 @@
-﻿# PPB API - Penjualan Barang
+# PPB API - Penjualan Barang
 
 Proyek ini adalah RESTful API untuk Sistem Penjualan Barang, dibangun menggunakan **Node.js**, **Express.js**, dan **Supabase** (PostgreSQL). Proyek ini merupakan bagian dari praktikum Pemrograman Perangkat Bergerak (PPB).
 
